@@ -21,10 +21,8 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
+  github: https://github.com/TusharShah222
   linkedin: https://www.linkedin.com/in/tushar-shah
-  pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
